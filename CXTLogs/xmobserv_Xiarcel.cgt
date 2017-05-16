@@ -1,0 +1,79 @@
+
+=======================
+11-21-2001 22:15:17 EST
+===========================
+Programmer info/debug/console follows:
+--------------------------------------
+
+Checking for xRegistry..Trying for socket on 63.253.72.156, port:1153
+Socket connected to xRegistry
+xMessageConverter(1) created
+SockWriter 10-3-01
+xMessageConverter(2) created
+Dynamic xListenerDispatch vers 11-21-01
+Dispatcher 11-21-01, dispatched in 0 millis..
+Command:LOGIN
+Dispatcher 11-21-01, dispatched in 0 millis..
+Command:LOGGED
+xMessageConverter(3) created
+Reg_id:Xiarcel88098
+Dispatcher 11-21-01, dispatched in 50 millis..
+inet:63.253.72.156::port:1156
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Adding:Dave to connect pool
+name(yours)==Xiarcel
+name(other)==Dave
+Running xContinualLogger with connect pool
+xConnectWorker report:
+Added <NAME>Dave</NAME><PORT>1157</PORT><IP>63.253.72.156</IP><REG_ID>Dave57058</REG_ID>:true
+
+Attempting client connect to 63.253.72.156 at port:1157
+Socket connected as client
+xMessageConverter(4) created
+SockWriter 10-3-01
+xClientConn created(XCL:ConnPool)
+xMessageConverter(5) created
+xMessageConverter(6) created
+SockWriter 10-3-01
+added connect
+xMessageConverter(7) created
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Received connection from Dave at 63.253.72.156 on port 1157 with RegID:Dave57058
+Adding Dave to registry
+Dave..added to Registry
+ONLINE
+=======
+Dave:SK:Xiarcel88098:CK:Dave57058
+Dispatcher 11-21-01, dispatched in 0 millis..
+Logged in as Xiarcel
+Adding Dave(as_client) to registry
+Dave(as_client)..added to Registry
+Added registry's default listener
+ONLINE
+=======
+Dave(as_client):SK:Dave57058:CK:Xiarcel88098
+Dispatcher 11-21-01, dispatched in 0 millis..
+xConnectPool..dump from .on()
+Remote:Dave
+xConnectPool..dump from .on()
+Remote:Dave
+Removing Dave from pool
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..

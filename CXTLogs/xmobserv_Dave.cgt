@@ -1,0 +1,98 @@
+
+=======================
+11-21-2001 22:15:10 EST
+===========================
+Programmer info/debug/console follows:
+--------------------------------------
+
+run
+try{
+}
+Checking for xRegistry..Trying for socket on 63.253.72.156, port:1153
+Socket connected to xRegistry
+xMessageConverter(1) created
+SockWriter 10-3-01
+xMessageConverter(2) created
+Dynamic xListenerDispatch vers 11-21-01
+Command:LOGIN
+Dispatcher 11-21-01, dispatched in 0 millis..
+Command:LOGGED
+xMessageConverter(3) created
+Reg_id:Dave57058
+Dispatcher 11-21-01, dispatched in 60 millis..
+inet:63.253.72.156::port:1156
+Dispatcher 11-21-01, dispatched in 0 millis..
+xConnectWorker report:
+
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+xConnectWorker report:
+
+xMessageConverter(4) created
+SockWriter 10-3-01
+Dispatcher 11-21-01, dispatched in 0 millis..
+Adding:Xiarcel to connect pool
+Dispatcher 11-21-01, dispatched in 0 millis..
+name(yours)==Dave
+name(other)==Xiarcel
+Running xContinualLogger with connect pool
+xConnectWorker report:
+Added <NAME>Xiarcel</NAME><PORT>1165</PORT><IP>63.253.72.156</IP><REG_ID>Xiarcel88098</REG_ID>:true
+
+Attempting client connect to 63.253.72.156 at port:1165
+Socket connected as client
+xMessageConverter(5) created
+SockWriter 10-3-01
+xClientConn created(XCL:ConnPool)
+xMessageConverter(6) created
+added connect
+xMessageConverter(7) created
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Received connection from Xiarcel at 63.253.72.156 on port 1165 with RegID:Xiarcel88098
+Adding Xiarcel to registry
+Xiarcel..added to Registry
+ONLINE
+=======
+Xiarcel:SK:Dave57058:CK:Xiarcel88098
+Dispatcher 11-21-01, dispatched in 0 millis..
+Logged in as Dave
+Adding Xiarcel(as_client) to registry
+Xiarcel(as_client)..added to Registry
+Added registry's default listener
+ONLINE
+=======
+Xiarcel(as_client):SK:Xiarcel88098:CK:Dave57058
+Dispatcher 11-21-01, dispatched in 0 millis..
+xConnectPool..dump from .on()
+Remote:Xiarcel
+xConnectPool..dump from .on()
+Remote:Xiarcel
+Removing Xiarcel from pool
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 50 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..
+Dispatcher 11-21-01, dispatched in 0 millis..

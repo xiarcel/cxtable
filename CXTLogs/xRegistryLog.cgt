@@ -1,0 +1,58 @@
+
+=======================
+11-21-2001 22:14:59 EST
+===========================
+Programmer info/debug/console follows:
+--------------------------------------
+
+63.253.72.156:sv
+mssg:<SERVER><INET>63.253.72.156</INET><PORT>1153</PORT></SERVER>, sent
+Bringing up xEnableServer
+xRegistry version 10-6-01
+xRegistry version 10-6-01
+63.253.72.156:sv
+xMessageConverter(1) created
+SockWriter 10-3-01
+added connect
+xMessageConverter(2) created
+Dynamic xListenerDispatch vers 11-21-01
+Received connection from Dave at 63.253.72.156 on port 1157 with RegID:Dave57058
+Dispatcher 11-21-01, dispatched in 60 millis..
+Adding Dave to registry
+Dave..added to Registry
+ONLINE
+=======
+Dave:SK::CK:Dave57058
+Message to already on:<USER><NAME>Dave</NAME><PORT>1157</PORT><IP>63.253.72.156</IP><REG_ID>Dave57058</REG_ID></USER>
+Dispatcher 11-21-01, dispatched in 0 millis..
+xMessageConverter(3) created
+SockWriter 10-3-01
+added connect
+xMessageConverter(4) created
+Dispatcher 11-21-01, dispatched in 0 millis..
+Received connection from Xiarcel at 63.253.72.156 on port 1165 with RegID:Xiarcel88098
+Dispatcher 11-21-01, dispatched in 0 millis..
+Adding Xiarcel to registry
+Xiarcel88098::Xiarcel88098::
+Dave57058::Dave57058::
+Xiarcel..added to Registry
+ONLINE
+=======
+Dave:SK::CK:Dave57058
+Xiarcel:SK::CK:Xiarcel88098
+Message to already on:<USER><NAME>Xiarcel</NAME><PORT>1165</PORT><IP>63.253.72.156</IP><REG_ID>Xiarcel88098</REG_ID></USER>
+Reader closed::Dave::
+java.net.SocketException: Connection reset by peer: JVM_recv in socket input stream read
+Removed listeners from Dave
+Sending remove notification to registry
+xClientConn:Dave57058((1 of 2))
+
+Reader closed::Xiarcel::
+java.net.SocketException: Connection reset by peer: JVM_recv in socket input stream read
+Removed listeners from Xiarcel
+Sending remove notification to registry
+xClientConn:Xiarcel88098((2 of 2))
+
+Erasing http-site presence...Sending Broadcasts
+..Success!
+Done
